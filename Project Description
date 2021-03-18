@@ -1,1 +1,12 @@
 # Putt-Putt-Golf-Scoring-Application-
+
+Date: Jan 2021 - Present 
+
+The goal of this academic project is to create an android application that allows users to 
+keep score during Putt-Putt games. It features a scoring grid that expands based on how many
+players and holes the user inputs, as well as a final score page that calculates the winner. 
+Android studio is being used for the development of this project, and Figma was used to create
+a mockup. The team for this project consists of a group of 5 that works in an agile environment
+to complete mockups and submit prototypes of the application over the course of multiple 2-week
+iterations.
+
